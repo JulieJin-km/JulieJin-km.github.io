@@ -56,7 +56,7 @@ My research interest includes Retrieval-augmented Generation and Large Language 
 - *2021.10* Junyuan scholarship.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Pursuing doctoral studies at the School of Computer Science and Technology, Peking University 
+- *2022.09 - now*, Pursuing doctoral studies at the School of Computer Science and Technology, Peking University 
 - *2018.09 - 2022.06*, Completed undergraduate studies at the School of Information Science and Technology, Peking University, earning a Bachelor of Science degree.
 
 <!--# 💬 Invited Talks
