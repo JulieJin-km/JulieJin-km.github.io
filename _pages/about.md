@@ -43,13 +43,6 @@ My research interest includes Retrieval-augmented Generation and Large Language 
 
 **Jing Jin**, Houfeng Wang, **LREC-COLING 2024**
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>--
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**>
-
 
 # 🎖 Honors and Awards
 - *2021.10* Annual Outstanding Student Award, School of Information Science and Technology, Peking University
@@ -59,9 +52,6 @@ My research interest includes Retrieval-augmented Generation and Large Language 
 - *2022.09 - now*, Pursuing doctoral studies at the School of Computer Science and Technology, Peking University 
 - *2018.09 - 2022.06*, Completed undergraduate studies at the School of Information Science and Technology, Peking University, earning a Bachelor of Science degree.
 
-<!--# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Tencent, China.
