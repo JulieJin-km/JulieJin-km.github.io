@@ -29,19 +29,19 @@ My research interest includes Retrieval-augmented Generation and Large Language 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 
-[DvD: Dynamic Contrastive Decoding for Knowledge Amplification in Multi-Document Question Answering](https://aclanthology.org/2024.emnlp-main.266.pdf)
+- [DvD: Dynamic Contrastive Decoding for Knowledge Amplification in Multi-Document Question Answering](https://aclanthology.org/2024.emnlp-main.266.pdf)
 
-**Jing Jin**, Houfeng Wang, Hao Zhang, Xiaoguang Li, Zhijiang Guo
+**Jing Jin**, Houfeng Wang, Hao Zhang, Xiaoguang Li, Zhijiang Guo, **EMNLP 2024 main**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">-->
 
-[Select High-quality Synthetic QA Pairs to Augment Training Data in MRC Under the Reward Guidance of Generative Language Models](https://aclanthology.org/2024.lrec-main.1267.pdf)
+-[Select High-quality Synthetic QA Pairs to Augment Training Data in MRC Under the Reward Guidance of Generative Language Models](https://aclanthology.org/2024.lrec-main.1267.pdf)
 
-**Jing Jin**, Houfeng Wang
+**Jing Jin**, Houfeng Wang, **LREC-COLING 2024**
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
