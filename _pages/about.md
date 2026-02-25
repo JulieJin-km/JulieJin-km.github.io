@@ -39,7 +39,7 @@ My research interest includes Retrieval-augmented Generation and Large Language 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">-->
 
--[Select High-quality Synthetic QA Pairs to Augment Training Data in MRC Under the Reward Guidance of Generative Language Models](https://aclanthology.org/2024.lrec-main.1267.pdf)
+- [Select High-quality Synthetic QA Pairs to Augment Training Data in MRC Under the Reward Guidance of Generative Language Models](https://aclanthology.org/2024.lrec-main.1267.pdf)
 
 **Jing Jin**, Houfeng Wang, **LREC-COLING 2024**
 
