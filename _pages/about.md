@@ -23,6 +23,7 @@ My research interest includes Retrieval-augmented Generation and Large Language 
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by ACL 2026 main conference.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024 main conference. 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by LREC-COLING 2024. 
 - *2023.09*: &nbsp;🎉🎉 Complete the summer internship at Tencent. 
